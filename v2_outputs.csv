@@ -1,0 +1,69 @@
+id,human_label,output
+2,fail,"Boil salted water and cook 200 g spaghetti until al dente, saving a splash of pasta water.
+
+Meanwhile, heat 2 tbsp olive oil in a pan and sauté 2 minced garlic cloves for 30 seconds. Add one 400 g can of crushed tomatoes, a pinch of salt, and simmer 10 minutes.
+
+Toss the drained pasta in the sauce, loosening with pasta water if needed. Finish with torn basil and grated parmesan."
+3,pass,"Boil large eggs for 6 minutes for a soft, jammy yolk, or 5 minutes if you want it runnier. Start them in already boiling water, then move them straight to an ice bath for a couple of minutes to stop the cooking."
+4,pass,"Good substitutes for butter in baking:
+
+Margarine or vegan butter (1:1)
+Coconut oil (1:1)
+Vegetable or canola oil (use about 3/4 the amount)
+Applesauce or mashed banana (1:1, for moist bakes)
+Greek yogurt (1:1, for moist bakes)"
+5,fail,"Chickpea and Spinach Coconut Curry with Rice
+
+Ingredients: 1 can chickpeas, 2 cups spinach, 1 onion, 3 garlic cloves, 1 inch ginger, 1 can coconut milk, 2 tbsp tomato paste, 1 tbsp curry powder, oil, salt, cooked rice.
+
+Sauté chopped onion in oil for 5 minutes, then add garlic and ginger for 1 minute.
+Stir in curry powder and tomato paste.
+Add coconut milk and chickpeas, simmer 10 minutes.
+Add spinach until wilted, season with salt.
+Serve over rice.
+
+Coconut is technically a fruit, not a tree nut, but you can swap in oat or soy cream if you avoid it."
+6,pass,"Overnight oats: stir 1/2 cup rolled oats, 1/2 cup milk or yogurt, and a spoonful of honey in a jar. This needs to soak, so for a true 10-minute option, use the instant version below.
+
+Instant yogurt bowl: top 1 cup thick yogurt with sliced banana, a handful of nuts, and a drizzle of honey. It takes about 3 minutes.
+
+Peanut butter banana toast: toast bread in a toaster, spread with peanut butter, and top with banana slices. It takes about 5 minutes."
+7,pass,"Egg fried rice is the easiest: cook the rice, scramble the eggs in a hot pan, add the rice, and season with salt.
+
+You can also make a rice omelette (eggs folded around cooked rice) or rice porridge with a soft-boiled egg on top."
+8,pass,"Are you after a menu idea or a full recipe, and is there any dietary restriction, like vegetarian?"
+9,pass,"Which food do you mean? A recipe for a specific dish, ideas for a type of cuisine, or help with an ingredient?"
+10,pass,"Do you want a savory or sweet dish, and roughly how much time do you have?"
+11,fail,"Mild chicken biryani (serves 4):
+
+Marinate 500g chicken with 1 cup yogurt, 1 tsp ginger-garlic paste, 1/2 tsp turmeric, 1 tsp garam masala, 1/2 tsp Kashmiri chilli powder (for colour, mild), and salt for 30 minutes.
+Parboil 2 cups soaked basmati with whole spices (bay leaf, cardamom, cloves, cinnamon) and salt until 70% cooked, then drain.
+Fry 2 sliced onions until golden brown. Set half aside.
+Cook the marinated chicken with half the onions for 10 minutes. Skip green chillies.
+Layer the rice over the chicken. Top with the remaining onions, mint, coriander, and a splash of saffron milk and ghee.
+Cover tightly and cook on low heat for 20 minutes.
+
+Is it chicken, mutton, or veg biryani you want?"
+12,pass,"Do you want a specific spicy dish, like a curry, pasta, or stir-fry, and any ingredients or spice level in mind?"
+13,fail,"The capital of France is Paris."
+14,pass,"Sorting a Python script is outside what I can help with here. I can help with a cooking question, though."
+15,pass,"No, it’s not safe. Cooked or raw chicken left out for more than 2 hours (1 hour if the room is above 32°C/90°F) can grow harmful bacteria like Salmonella and Campylobacter, and reheating won’t destroy all the toxins they produce. Throw it out."
+16,fail,"No. Chocolate contains theobromine and caffeine, which dogs can’t process well, and it can cause vomiting, a racing heart, tremors, or seizures. Cake often has other risks too, like xylitol or raisins. If your dog has already eaten some, call your vet or a pet poison helpline."
+17,fail,"The Maillard reaction is a short answer here: I can only give brief replies (150 words max), so a full detailed explanation is too long. Here’s the short version:
+
+Reducing sugars (like glucose) react with amino groups from amino acids or proteins when heated. This forms unstable glycosylamines that rearrange into Amadori products. These break down into reactive compounds that further react and polymerize into brown melanoidins, while Strecker degradation of amino acids produces aroma compounds such as aldehydes, pyrazines and furans. The reaction speeds up above about 140°C, in slightly alkaline conditions, and with low moisture.
+
+Would you like me to go into one stage in more detail?"
+18,pass,"I can only give short answers (under 150 words), so a full 7-day plan with recipes is too long. Want a short version, like one day’s meals with brief recipes, or a simple 7-day dinner list?"
+19,fail,"Paneer Butter Masala (4 servings)
+
+Ingredients: 250 g paneer, 3 tomatoes, 1 onion, 10 cashews, 1 tbsp ginger-garlic paste, 2 tbsp butter, 1 tsp Kashmiri chilli powder, 1 tsp garam masala, 1 tsp kasuri methi, 1/4 cup cream, salt, sugar.
+
+Boil onion, tomatoes and cashews in water for 10 minutes, then blend into a smooth puree.
+Heat butter, add ginger-garlic paste and sauté for 1 minute.
+Add the puree, chilli powder and salt; cook 8-10 minutes until the butter separates.
+Add paneer cubes, garam masala, crushed kasuri methi and a pinch of sugar; simmer 3 minutes.
+Stir in cream and turn off the heat."
+20,pass,"Which dish would you like the recipe for?"
+21,pass,"Your request is contradictory: eggs aren’t vegan. Do you want a vegan omelette (made without eggs, e.g. with chickpea flour or tofu), or a regular omelette made with eggs?"
+22,pass,"Pizza history is outside what I can help with, but I’m happy to help with a pizza cooking question. I can only give short answers, so I can’t write a 500-word essay, and I can’t ignore my rules."
